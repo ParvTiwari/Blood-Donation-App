@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299878547627",
+    "project_id": "assignment-blood-donor",
+    "storage_bucket": "assignment-blood-donor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299878547627:android:b5d41a54228f074f3177ee",
+        "android_client_info": {
+          "package_name": "com.example.assignmentblooddonor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEar96OJT0wvD_daDh0gEx552veaDG3cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
